@@ -1,3 +1,6 @@
+"https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/ 
+
+
 " Disable compatibility with vi which can cause unexpected issues.
 set nocompatible
 
